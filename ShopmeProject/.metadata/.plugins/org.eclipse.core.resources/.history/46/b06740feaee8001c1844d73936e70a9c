@@ -1,9 +1,0 @@
-package com.shopme.admin.categories;
-
-import org.springframework.data.repository.PagingAndSortingRepository;
-
-import com.shopme.common.entity.Categories;
-
-public interface CategoriesRepository extends PagingAndSortingRepository<Categories, Integer> {
-
-}

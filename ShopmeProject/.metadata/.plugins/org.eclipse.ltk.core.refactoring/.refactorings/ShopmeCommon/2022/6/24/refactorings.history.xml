@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename field &apos;child&apos; in &apos;com.shopme.common.entity.Categories&apos; to &apos;children&apos;&#x0A;- Original project: &apos;ShopmeCommon&apos;&#x0A;- Original element: &apos;com.shopme.common.entity.Categories.child&apos;&#x0A;- Renamed element: &apos;com.shopme.common.entity.Categories.children&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;child&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.shopme.common.entity{Categories.java[Categories^child" name="children" references="true" setter="false" stamp="1654861307724" textual="false" version="1.0"/>
-</session>

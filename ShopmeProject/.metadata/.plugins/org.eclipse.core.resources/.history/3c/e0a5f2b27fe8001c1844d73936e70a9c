@@ -1,5 +1,0 @@
-package com.shopme.admin.repository;
-
-public interface CategoriesRepository {
-
-}
